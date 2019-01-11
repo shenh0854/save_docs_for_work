@@ -1,0 +1,20 @@
+item {
+  name: "background"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Car"
+  label: 1
+  display_name: "Car"
+}
+item {
+  name: "Truck"
+  label: 2
+  display_name: "Truck"
+}
+item {
+  name: "Other"
+  label: 3
+  display_name: "Other"
+}
